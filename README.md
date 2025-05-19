@@ -1,5 +1,3 @@
-Project Description
-This is a turn-based Java RPG-style battle simulator where two entities (for example, a hero and a zombie) engage in combat using magical items. Each entity has attributes such as STRENGTH, DEXTERITY, HEALTH, and GOLD. These attributes can be modified by equipping items loaded from a store.txt file. The game features a basic combat loop where entities attack each other in turns, with hit chances influenced by dexterity and equipment bonuses.
 
 Features
 Turn-based combat system between two entities.
